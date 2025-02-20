@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/krig/kontrl/kore/" "~/war/ws-rest/" "~/war/billet/" "~/war/broker/" "~/war/billetv2/" "~/war/cnab/" "~/war/rendimento/" "~/war/payroll/" "~/war/compliance/" "~/war/bridge/" "~/war/golang-mongo-crud/" "~/war/phpws/" "~/war/auth/" "~/war/etl/" "~/war/groups/" "~/.nvm/" "~/war/sessions/")
