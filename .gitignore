@@ -3,3 +3,4 @@ lsp-cache/
 projectile-bookmarks.d
 projectile.cache
 auto-save-list/
+.emacs.desktop
